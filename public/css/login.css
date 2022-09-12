@@ -1,0 +1,28 @@
+.main-login {
+    padding: 20px 0;
+}
+
+.form-login {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 15px 0;
+}
+
+.input-login {
+    border: none;
+    width: 440px;
+    height: 34px;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.btn-login{
+
+    background-color: var(--colorCeleste);
+    width: 440px;
+    height: 33px;
+    border: none;
+    color: white;
+    border-radius: 10px;
+}
